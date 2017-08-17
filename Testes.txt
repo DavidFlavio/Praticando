@@ -1,1 +1,4 @@
 trabalhando com o GitHub
+
+Realizado o primeiro commit,
+Funcionando.
